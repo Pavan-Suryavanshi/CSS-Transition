@@ -1,0 +1,47 @@
+/*
+//THIS IS THE FIRST EXAMPLE OF TRANSITION
+div{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    transition-duration: 2s;
+    transition-delay: 2s;
+}
+
+div:hover{
+    background-color: black;
+    border-radius: 50%;
+}
+    */
+
+    
+    /*SECOND EXAMPLE of Transition*/
+/*
+    div{
+        height: 100px;
+        width: 100px;
+        background-color: green;
+        margin: 0 auto;
+        margin-top: 10px;
+        transition: margin-top 2s ease-in 0.2s ;we can also use ease-in-out,ease
+    }
+
+    div:hover{
+        margin-top: 400px;
+        background-color: pink;
+    }
+        */
+
+
+        /*CSS FOR TRANSFOAM */
+        section{
+            margin-top:100px ;
+        }
+        div{
+            width: 200px;
+            height: 50px;
+            text-align: center;
+
+        }
+        
+    
