@@ -59,5 +59,23 @@ div:hover{
         #one{
             transform: rotate(45deg);
         }
+
+        #two{
+            transform: scale(0.5); /*it means the element increase 1.5x */
+        }
+
+        #three{
+           /* transform: translate(10px,10px);rotate according to x-axis & y-axis */
+            /*we can also apply for x axis only */
+            transform: translateX(-100px);
+        }
+
+        #four{
+            transform: skew(30deg);
+        }
+
+        #five{
+            transform: rotate(30deg) translate(100 100);
+        }
         
     
